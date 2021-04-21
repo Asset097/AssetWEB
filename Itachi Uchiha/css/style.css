@@ -1,0 +1,36 @@
+*{
+
+	padding: 0px;
+	/*border: 1px solid;*/
+}
+
+	.main {
+		font-family: cursive;
+		font-size: 20px;
+		float: left;
+
+	}
+
+	img {
+		width: 200px;
+		height: 100px;
+	}
+
+	a{
+		color: blue
+	}
+	table {
+		border: 2px solid black;
+		border-radius: 5px;
+	}
+
+	td {
+		width: 100px;
+	}
+
+	h1 {
+		border: 4px Cyan dotted;
+		width: 300px ;
+		height: 50px;
+		font-family: cursive;
+	}
